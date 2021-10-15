@@ -2,6 +2,5 @@
 
 int main() 
 {
-	printf("你好木犀！")
+	printf("你好木犀！");
 }
-
